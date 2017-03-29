@@ -1,0 +1,30 @@
+Title: Timers
+
+----
+
+Text: 
+
+Complete a Mythic Keystone run within the timer to upgrade a keystone.
+
+Complete it with 40% of the timer remaining and upgrade it 3 times in one go, rewarding 3 chests of loot at the end. One for the difficulty level completed, one for the next level up and one for the level after that.
+
+Example: You complete a +4 keystone with 40% of the timer remaining. It upgrades to a +7 keystone and you are awarded 3 chests at the end of the run, one containing +4 difficulty loot, one containing +5 level loot and one containing +6 level loot (all the levels you "successfully completed").
+
+Complete a run with 20% of the timer remaining and upgrade it 2 times in one go - rewarding 2 chests of loot at the end. Like the example above but remove the last chest and difficulty level.
+
+### INSTANCE TIMER AND REQUIREMENTS FOR "LEVEL JUMPS"
+
+| +1 chest  | +2 chests  | +3 chests |
+| ------------- | ------------- |------------- |
+| Black Rook Hold: 39:00  | 31:12 (7:48 left on the timer)  | 23:25 (15:35 left on the timer) |
+| Court of Stars: 30:00  | 24:00 (6:00 left on the timer)  | 18:00 (12:00 left on the timer) |
+| Darkheart Thicket: 30:00  | 24:00 (6:00 left on the timer)  | 18:00 (12:00 left on the timer) |
+| Eye of Azshara: 35:00  | 28:00 (7:00 left on the timer)  | 21:00 (14:00 left on the timer) |
+| Halls of Valor: 45:00  | 36:00 (9:00 left on the timer)  | 27:00 (18:00 left on the timer) |
+| Maw of Souls: 24:00  | 19:12 (4:48 left on the timer)  | 14:24 (9:36 left on the timer) |
+| Neltharion's Lair: 33:00  | 27:24 (6:36 left on the timer)  | 19:48 (13:12 left on the timer) |
+| The Arcway: 45:00  | 36:00 (9:00 left on the timer)  | 27:00 (18:00 left on the timer) |
+| Vault of the Wardens: 33:00  | 26:24 (6:36 left on the timer)  | 19:48 (13:12 left on the timer) |
+| Lower Karazhan: 33:00  | 27:24? (6:36 left on the timer)?  | 19:48? (13:12 left on the timer)? |
+| Upper Karazhan: 33:00  | 27:24? (6:36 left on the timer)?  | 19:48? (13:12 left on the timer)? |
+| Cathedral of Eternal Night: 33:00  | 27:24? (6:36 left on the timer)?  | 19:48? (13:12 left on the timer)? |

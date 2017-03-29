@@ -1,0 +1,30 @@
+Title: Resources
+
+----
+
+Text: 
+
+### TIMERS
+
+* GottaGoFast - All-in-one mythic+ timer. Shows % value of mobs on tooltip, timers required for +2/+3 chest and times that objectives are completed.
+* Angry Keystones - Another take on the keystone/mythic+ timer. Displays affix rotation schedule and current affixes as well as providing chest timers and kill count % ingame. Also styles keystone links ingame to show you what dungeon they're for and whether they are depleted or not.
+* MythicPlusProgress - Provides mob percent value toward the "Enemy Forces Eliminated" counter in tooltips and on nameplates.
+* Keystone Expander - replaces text in [Mythic Keystone] links, showing information without having to see the tooltip
+
+### KEYSTONE INFORMATION
+
+* KeystoneQuery - Queries other people in guild or group with the addon to see what keystones people have.
+* Keyed - Queries people in guild with the addon to build a list of keystones.
+* Keybooster - Inserts whispered keystones into the default LFG UI. Useful for boosting/carry groups.
+
+### GROUP FINDING AND STATS
+
+* MPH - (Mythic Plus Helper) Looks up group candidates and returns ilvl equipped/highest, total mythic plus runs and legendaries! Be sure to get the addon for ease of use.
+* Artifactpower.info - TONS OF USEFUL TOOLS. This site has player lookups that show content cleared, mythic plus stats, and more. The site might run a little slow because of all the data it's crunching, but it's worth it.
+* Mythic+ Friends Discord - Find a group of people to run M+ with if group finder isn't working out.
+
+### WEAKAURAS
+
+* TimeToDie Weakaura - Weakaura that tracks time until target death, average kill times, time until boss death, etc.
+* A list of dungeon weakuras (with interrupt/cc tracker) - Dungeon specific WeakAuras with a cc tracker.
+* RaidCDs WeakAura - A WeakAura to track raid/group utility CDs (i.e Barkskin, Blessing of Sacrifice, etc).
