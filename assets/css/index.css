@@ -285,11 +285,6 @@ figcaption {
 
 section {
   padding: 8vw 0;
-  width: 100%;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  flex-direction: column;
   box-shadow: 0 1px rgba(255, 255, 255, 0.15)
 }
 
@@ -324,7 +319,7 @@ html {
 
 body {
   /* space for sticky footer */
-  margin-bottom: 4.5rem;
+  margin-bottom: 1rem;
 }
 
 /* ----- 3.1  Header  ------------------------------------------------------- */
@@ -370,25 +365,7 @@ nav > ul > a:nth-child(even) {
 
 /* -----  3.3 Sticky Footer  ------------------------------------------------ */
 
-@keyframes pulsing-heart {
-  0% {
-    transform: scale(1);
-  }
-  25% {
-    transform: scale(1.2);
-  }
-  50% {
-    transform: scale(1);
-  }
-  100% {
-    transform: scale(1);
-  }
-}
-
 .footer {
-  position: absolute;
-  bottom: 0;
-  width: 100%;
   padding: 1.5rem 0;
   text-align: center;
   font-size: .875rem;
@@ -402,27 +379,6 @@ nav > ul > a:nth-child(even) {
   border-bottom: 0;
 }
 
-.footer .heart {
-  /* The heart character of Arial Unicode MS looks just 
-     surprisingly nice … */
-  font-family: "Arial Unicode MS", Arial, sans-serif;
-  display: inline-block;
-}
-
-.footer-madewithkirby a:hover .heart {
-  animation: pulsing-heart .6s linear infinite;
-}
-
-@media all and (min-width: 48em) {
-  .footer-copyright, .footer-madewithkirby {
-    display: inline;
-  }
-  .footer-copyright::after {
-    content: "—";
-    margin: 0 .2em;
-    color: #71efac;
-  }
-}
 
 /* -----  3.4 Main Content  ------------------------------------------------- */
 
@@ -471,4 +427,46 @@ td {
 
 tr:nth-child(even) {
   background: rgba(255, 255, 255, 0.05)
+}
+
+/* affixes */
+
+.affix_list {
+  display: flex;
+  flex-wrap: wrap;
+  padding: 10px;
+}
+
+.affix_item {
+  width: 45%;
+  padding: 10px;
+  margin-right: 20px;
+}
+
+.affix_item:nth-child(1),
+.affix_item:nth-child(1),
+.affix_item:nth-child(4),
+.affix_item:nth-child(4),
+.affix_item:nth-child(5)
+ {
+  background: rgba(255, 255, 255, 0.05);
+}
+
+.affix_item .note {
+  color: rgba(255, 255, 255, 0.5);
+  font-weight:400;
+  font-style: italic;
+  font-size: 16px
+}
+
+.easy {
+  color: #4CAF50;
+}
+
+.med {
+  color: #FF9800;
+}
+
+.hard {
+  color: #D50000;
 }
