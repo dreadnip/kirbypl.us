@@ -5,6 +5,7 @@
       </p>
 
   </footer>
-
+  
+  <script src="<?php echo url('assets/js/script.js') ?>"></script>
 </body>
 </html>

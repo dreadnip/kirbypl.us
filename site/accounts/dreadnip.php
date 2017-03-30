@@ -7,8 +7,8 @@ email: test@test.com
 language: en
 role: admin
 history:
+  - home
   - affixes
   - loot
   - timers
   - resources
-  - home
