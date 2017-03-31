@@ -1,7 +1,6 @@
 .DS_Store
 /content/site.txt
 /site/cache
-/site/accounts/sander.php
 *.espressostorage
 /vendor/
 /assets/data/
