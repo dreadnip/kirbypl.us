@@ -1,9 +1,9 @@
-title: Projects
+title: Dungeons
 
 files: false
 
 pages:
-  template: project
+  template: dungeon
 
 options: 
   template: false  
@@ -14,7 +14,3 @@ fields:
   title:
     label: Title
     type:  text
-
-  text:
-    label: Text
-    type:  textarea
