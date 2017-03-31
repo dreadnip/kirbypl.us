@@ -1,4 +1,4 @@
-<h3>LEVEL 4 AFFIXES</h3><span class="title_note">(THESE OCCUR AT +4 KEYSTONES)</span>
+<h3>+4 AFFIXES</h3>
 <div class="affix_list">
 <?php foreach($data->affixes()->yaml() as $affix): ?>
   <?php if($affix["level"] == 4): ?>
@@ -11,7 +11,7 @@
 <?php endforeach ?>
 </div>
 
-<h3>LEVEL 7 AFFIXES</h3><span class="title_note">(THESE OCCUR AT +7 KEYSTONES)</span>
+<h3>+7 AFFIXES</h3>
 <div class="affix_list">
 <?php foreach($data->affixes()->yaml() as $affix): ?>
   <?php if($affix["level"] == 7): ?>
@@ -24,7 +24,7 @@
 <?php endforeach ?>
 </div>
 
-<h3>LEVEL 10 AFFIXES</h3><span class="title_note">(THESE OCCUR AT +10 KEYSTONES)</span>
+<h3>+10 AFFIXES</h3>
 <div class="affix_list">
 <?php foreach($data->affixes()->yaml() as $affix): ?>
   <?php if($affix["level"] == 10): ?>
