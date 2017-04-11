@@ -4,3 +4,4 @@
 *.espressostorage
 /vendor/
 /assets/data/
+/site/accounts/

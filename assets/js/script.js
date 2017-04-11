@@ -7,8 +7,10 @@ function calc_weeks(reference_date){
 	var d = new Date();
 	var diffDays = Math.round((d.getTime() - reference_date.getTime())/(24*60*60*1000));
 	var diffWeeks = Math.floor(diffDays/7);
+	console.log(diffWeeks);
 	var w = (diffWeeks%8);
 	var weeks = {"first_week":w, "second_week":w+1, "third_week":w+2};
+	console.log(weeks);
 	for(index in weeks){
 		(weeks[index] >= 8) ? weeks[index] = weeks[index] - 8 : null;
 	}
@@ -24,7 +26,7 @@ var reference_date_us = new Date(Date.UTC(2017, 2, 28, 15, 0, 0)); //Patch 7.2 l
 var schedule = [
 	{ "first_affix": { "name": "raging", "difficulty": "med" }, "second_affix": { "name": "volcanic", "difficulty": "easy" }, "third_affix": { "name": "tyrannical", "difficulty": "hard" }},
 	{ "first_affix": { "name": "teeming", "difficulty": "med" }, "second_affix": { "name": "explosive", "difficulty": "easy" }, "third_affix": { "name": "fortified", "difficulty": "hard" }},
-	{ "first_affix": { "name": "?", "difficulty": "easy" }, "second_affix": { "name": "?", "difficulty": "easy" }, "third_affix": { "name": "?", "difficulty": "hard" }},
+	{ "first_affix": { "name": "bolstering", "difficulty": "med" }, "second_affix": { "name": "grievous", "difficulty": "med" }, "third_affix": { "name": "tyrannical", "difficulty": "hard" }},
 	{ "first_affix": { "name": "?", "difficulty": "easy" }, "second_affix": { "name": "?", "difficulty": "easy" }, "third_affix": { "name": "?", "difficulty": "hard" }},
 	{ "first_affix": { "name": "?", "difficulty": "easy" }, "second_affix": { "name": "?", "difficulty": "easy" }, "third_affix": { "name": "?", "difficulty": "hard" }},
 	{ "first_affix": { "name": "?", "difficulty": "easy" }, "second_affix": { "name": "?", "difficulty": "easy" }, "third_affix": { "name": "?", "difficulty": "hard" }},
