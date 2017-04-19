@@ -27,11 +27,11 @@ var schedule = [
 	{ "first_affix": { "name": "raging", "difficulty": "med" }, "second_affix": { "name": "volcanic", "difficulty": "easy" }, "third_affix": { "name": "tyrannical", "difficulty": "hard" }},
 	{ "first_affix": { "name": "teeming", "difficulty": "med" }, "second_affix": { "name": "explosive", "difficulty": "easy" }, "third_affix": { "name": "fortified", "difficulty": "hard" }},
 	{ "first_affix": { "name": "bolstering", "difficulty": "med" }, "second_affix": { "name": "grievous", "difficulty": "med" }, "third_affix": { "name": "tyrannical", "difficulty": "hard" }},
-	{ "first_affix": { "name": "?", "difficulty": "easy" }, "second_affix": { "name": "?", "difficulty": "easy" }, "third_affix": { "name": "?", "difficulty": "hard" }},
-	{ "first_affix": { "name": "?", "difficulty": "easy" }, "second_affix": { "name": "?", "difficulty": "easy" }, "third_affix": { "name": "?", "difficulty": "hard" }},
-	{ "first_affix": { "name": "?", "difficulty": "easy" }, "second_affix": { "name": "?", "difficulty": "easy" }, "third_affix": { "name": "?", "difficulty": "hard" }},
-	{ "first_affix": { "name": "?", "difficulty": "easy" }, "second_affix": { "name": "?", "difficulty": "easy" }, "third_affix": { "name": "?", "difficulty": "hard" }},
-	{ "first_affix": { "name": "?", "difficulty": "easy" }, "second_affix": { "name": "?", "difficulty": "easy" }, "third_affix": { "name": "?", "difficulty": "hard" }}
+	{ "first_affix": { "name": "sanguine", "difficulty": "easy" }, "second_affix": { "name": "volcanic", "difficulty": "easy" }, "third_affix": { "name": "fortified", "difficulty": "hard" }},
+	{ "first_affix": { "name": "?", "difficulty": "easy" }, "second_affix": { "name": "?", "difficulty": "easy" }, "third_affix": { "name": "tyrannical", "difficulty": "hard" }},
+	{ "first_affix": { "name": "?", "difficulty": "easy" }, "second_affix": { "name": "?", "difficulty": "easy" }, "third_affix": { "name": "fortified", "difficulty": "hard" }},
+	{ "first_affix": { "name": "?", "difficulty": "easy" }, "second_affix": { "name": "?", "difficulty": "easy" }, "third_affix": { "name": "tyrannical", "difficulty": "hard" }},
+	{ "first_affix": { "name": "?", "difficulty": "easy" }, "second_affix": { "name": "?", "difficulty": "easy" }, "third_affix": { "name": "fortified", "difficulty": "hard" }}
 ];
 
 /*
